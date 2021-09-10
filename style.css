@@ -1,0 +1,23 @@
+body{
+    background-color: lightblue;
+}
+
+.card{
+    background-color: wheat;
+    height:30rem;
+    width:20rem;
+    margin: 7% 37%;
+    border-radius: 15px;
+}
+
+img {
+    height:220px;
+    width: 320px;
+    border-radius: 15px 15px 0px 0px;
+}
+
+.content {
+    text-align: center;
+    padding: 20px 28px 0px 28px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
